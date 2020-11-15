@@ -1,1 +1,5 @@
 /* write your override styles here */
+#tag-1 {display: none;}
+div #tag-2 {display: none;}
+.slick-wicked #tag-3 {display: none;}
+.slick #tag-7 {display: none;}
